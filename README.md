@@ -48,4 +48,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://PHAGUN-JAIN)
+- GitHub [@PHAGUN-JAIN](https://PHAGUN-JAIN)
