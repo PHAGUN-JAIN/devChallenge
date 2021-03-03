@@ -1,0 +1,53 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+  padding: 1.5rem;
+}
+
+div .title {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: Inconsolata;
+  padding: 4rem;
+}
+
+figure {
+  display: inline;
+}
+
+img {
+  display: inline-block;
+  width: 539px;
+  height: 447px;
+  margin-top: 7rem;
+  margin-left: 4rem;
+}
+
+aside {
+  margin-top: 7rem;
+  max-width: 600px;
+  float: right;
+  margin-right: 7.2rem;
+}
+aside p {
+  font-size: 64px;
+  font-weight: 700;
+  font-family: monospace;
+  margin-bottom: 5rem;
+}
+aside button {
+  display: block;
+  margin-top: 5rem;
+  padding: 1rem;
+  background-color: #333333;
+  outline: none;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=style.css.map */
